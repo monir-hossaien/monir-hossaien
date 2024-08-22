@@ -9,12 +9,13 @@
 Hello! I'm Monir Hossain, a passionate full-stack developer with a strong foundation in both front-end and back-end technologies. With 1 year 5 months experience, I specialize in creating dynamic, responsive web applications that provide intuitive user experiences
 
 ### Skills & Experience:
-</hr>
+--
 ✅ JavaScript</br>
 ✅ React</br>
 ✅ Next Js</br>
 ✅ Node JS</br>
 ✅ HTML / CSS / Bootstrap 
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monir-hossaien)](https://github.com/anuraghazra/github-readme-stats)
