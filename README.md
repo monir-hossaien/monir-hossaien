@@ -10,10 +10,10 @@ Hello! I'm Monir Hossain, a passionate full-stack developer with a strong founda
 
 ### Skills & Experience:
 ---
-✅ JavaScript
-✅ React
-✅ Next Js
-✅ Node JS
+✅ JavaScript</br>
+✅ React</br>
+✅ Next Js</br>
+✅ Node JS</br>
 ✅ HTML / CSS / Bootstrap 
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/monir-hossaien)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/monir-hossaien/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com//MonirHossain20230)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Hossain-yk7iz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.monirh.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](www.monirh.com)  
