@@ -1,15 +1,14 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQG1hDY-LKGyJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724042952918?e=1729728000&v=beta&t=FDQlCQLDGdXkWrbdKdulHcLMctVCLHgvONjQ4BFRQoc)
 
 ## Hi there 👋, I'm Monir Hossain
----
-### 💼 I'm Web Developer
-### ✒️ Love to write code
-### 👍 Like to share my knowledge
+
+💼 I'm Web Developer
+✒️ Love to write code
+👍 Like to share my knowledge
 
 Hello! I'm Monir Hossain, a passionate full-stack developer with a strong foundation in both front-end and back-end technologies. With 1 year 5 months experience, I specialize in creating dynamic, responsive web applications that provide intuitive user experiences
 
 ### Skills & Experience:
----
 ✅ JavaScript</br>
 ✅ React</br>
 ✅ Next Js</br>
